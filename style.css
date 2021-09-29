@@ -85,7 +85,7 @@ nav li:before {
 }
 
 #welcome-section {
-
+height: 45vh;
 
 
 }
@@ -127,9 +127,9 @@ h1 {
 
 #header-svg {
   position:relative;
-  right:650px;
-  top:-250px;
-  height:60%;
+  right:700px;
+  top:-270px;
+  height:100%;
 
 }
 
