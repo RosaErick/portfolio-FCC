@@ -3,8 +3,8 @@ const text = document.querySelector('.typing-text');
 
 // make a words array
 const words = [
-  "Hi, I'm Erick Rosa.",
-"I'm an aspiring Web Developer currently living in Rio de Janeiro, Brasil. I enjoy learning new things and share them online."
+  "Hi.", "I'm Erick Rosa.",
+"I'm an aspiring Web Developer from Rio de Janeiro, Brasil."
 ];
 
 const words2 = ["Hi, I'm Erick Rosa"]
