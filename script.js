@@ -7,7 +7,6 @@ const words = [
 "I'm an aspiring Web Developer from Rio de Janeiro, Brasil."
 ];
 
-const words2 = ["Hi, I'm Erick Rosa"]
 // start typing effect
 setTyper(text, words, words2);
 
