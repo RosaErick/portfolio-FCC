@@ -1,14 +1,13 @@
-// get the element
+
 const text = document.querySelector('.typing-text');
 
-// make a words array
 const words = [
   "Hi.", "I'm Erick Rosa.",
 "I'm an aspiring Web Developer from Rio de Janeiro, Brasil."
 ];
 
 const words2 = ["Hi, I'm Erick Rosa"]
-// start typing effect
+
 setTyper(text, words, words2);
 
 function setTyper(element, words) {
