@@ -4,7 +4,6 @@
 margin:0;
 padding:0;
 box-sizing: border-box;
-border: 2px solid red;
 
 
 }
@@ -402,7 +401,7 @@ margin-left:100px!important;
 footer {
 
 position: absolute;
-bottom:-700ex;
+bottom:-695ex;
 margin: 0 auto;
 width: 100%;
 
