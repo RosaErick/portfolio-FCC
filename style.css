@@ -127,19 +127,13 @@ h1 {
 
 #header-svg {
   position:relative;
-  right:700px;
+  right:730px;
   top:-270px;
   height:100%;
 
 }
 
-#header-svg2 {
-position:absolute;
-top:30px;
-left:480px;
-z-index: 0;
 
-}
 
 
 
@@ -339,7 +333,7 @@ top:5px;
 right:25%;
 margin-top:10px;
 
-}
+
 
 
 }
@@ -414,9 +408,11 @@ margin:0 auto!important;
 
 }
 
+
+
 #header-svg {
   position:absolute;
-  right:250px;
+  right:270px;
   top:35px;
   height:25vh;
  
@@ -425,7 +421,7 @@ margin:0 auto!important;
 }
 
 
-
+}
 
 
 #h2-project {
